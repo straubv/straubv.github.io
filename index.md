@@ -1,8 +1,6 @@
 # Vanessa Straub
 
-**Computational Linguistics · Applied AI · LLM Evaluation**
-
-M.Sc. Computational Linguistics, LMU Munich
+M.Sc. graduate in Computational Linguistics, LMU Munich
 
 I am a computational linguist interested in large language models, natural language processing, and the evaluation of AI systems, with a focus on understanding and analysing model behaviour.
 

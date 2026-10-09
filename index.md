@@ -55,7 +55,7 @@ LMU Munich · 2024–2026
 LMU Munich · 2023–2024
 
 **B.A.  Intercultural Applied Linguistics**
-University Name · 2019–2024
+University of Augsburg · 2019–2024
 
 ---
 

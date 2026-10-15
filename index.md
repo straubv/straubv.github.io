@@ -6,7 +6,7 @@ I am a computational linguist interested in large language models, natural langu
 
 ## About
 
-I recently completed my M.Sc. in Computational Linguistics at LMU Munich, graduating with an overall grade of 1.36.
+I recently completed my M.Sc. in Computational Linguistics at LMU Munich.
 
 My academic work has focused on natural language processing, machine learning, deep learning, generative AI, and the analysis of language model behaviour. I am particularly interested in making AI systems more interpretable and human-centered.
 
